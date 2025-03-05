@@ -14,7 +14,7 @@ draw = function(){
   
   if (answer == 1) {
     text("YOUR", 176, 200);
-    text("MESSAGE", 159, 229); 
+    text("Apples 4 Life", 159, 229); 
   }
   
 };

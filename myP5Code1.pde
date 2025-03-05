@@ -29,7 +29,7 @@ draw = function(){
   
 };
 
-var drawScene = function(){
+var drawScene = function(20,30,40){
     image(sceneImage, 0, 0);
     
     fill(0,0,0);
